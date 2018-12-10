@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_paises">
+        <item>Australia</item>
+        <item>Barbados</item>
+        <item>Belize</item>
+        <item>Canada</item>
+        <item>China</item>
+        <item>Ecuador</item>
+        <item>Espana</item>
+        <item>Finalndia</item>
+        <item>Francia</item>
+        <item>Honduras</item>
+    </string-array>
+</resources>
